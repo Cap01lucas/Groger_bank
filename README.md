@@ -1,14 +1,14 @@
-#Groger Bank
+# Groger Bank
 
-##Linguagem utilizada:
+## Linguagem utilizada:
 
 - Python
 
-##Dificuldades:
+## Dificuldades:
 
 - Criar Função
 
-##Exemplo de ferramentas:
+## Exemplo de ferramentas:
 
 - if (x == 1):
     def saque(x, contador):
@@ -23,6 +23,6 @@
         return = saldo
 saque(contador, x)    
 ---
-#Integrantes:
+# Integrantes:
 ## Lucas Martins
 ## Pedro Furlan
